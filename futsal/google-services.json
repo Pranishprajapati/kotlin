@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528478968714",
+    "firebase_url": "https://futsilo-default-rtdb.firebaseio.com",
+    "project_id": "futsilo",
+    "storage_bucket": "futsilo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528478968714:android:05159f2ba868e81e544673",
+        "android_client_info": {
+          "package_name": "com.example.futsal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVK9_YJr5zOnp6G-L9D_gxN-nOkGVMkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

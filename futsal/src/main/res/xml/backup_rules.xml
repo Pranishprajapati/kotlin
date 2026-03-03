@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Include app database -->
+    <include domain="database" path="futsal.db" />
+
+    <!-- Include all shared preferences -->
+    <include domain="sharedpref" path="*.xml" />
+
+    <!-- Exclude cache folder (ignore it, because cache domain not allowed) -->
+    <!-- Android automatically skips cache, so no need to include it -->
+</full-backup-content>

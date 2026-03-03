@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define keys for extracting data -->
+    <string name="user_email_key">user_email</string>
+    <string name="user_name_key">user_name</string>
+    <string name="user_score_key">user_score</string>
+</resources>
